@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Standoff 2, the popular mobile and PC first-person shooter game, offers an exciting array of in-game items and weapons that can enhance your gaming experience ",
+   "photo1":"https://iili.io/HbqWoLQ.webp"},
+  {"desc2":"Among these items are cases, which contain various skins, stickers, and other cosmetic items that can help you customize your weapons and character","photo2":"https://iili.io/HbqWTrP.webp"},
+  {"desc3":" In this guide, we will delve into the world of Standoff 2 cases, exploring what they are, how to obtain them, and what you can expect to find inside.","photo3":"https://iili.io/HbqWzBV.webp"},
+  {"desc4":"Standoff 2 cases are virtual containers that hold a variety of cosmetic items. These items can include weapon skins, character skins","photo4":"https://iili.io/HbqWIEB.webp"},
+  {"desc5":"that allow players to personalize their gaming experience. Cases come in different rarities, with rarer cases typically containing more valuable items.","photo5":"https://iili.io/HbqWA21.webp"},
+  {"descd":"In-Game Drops: You can receive cases as random drops while playing Standoff 2. The longer you play, the more likely you are to receive cases.","photod":"https://iili.io/HbqWRYF.webp"}
    ]
  
 }
